@@ -19,9 +19,6 @@ class ScavTrap:
 		virtual void	takeDamage(unsigned int amount);
 		virtual void	beRepaired(unsigned int amount);
 		void			guardGate(void);
-
-	private:
-
 };
 
 #endif

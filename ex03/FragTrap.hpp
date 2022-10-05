@@ -19,9 +19,6 @@ class FragTrap:
 		virtual void	takeDamage(unsigned int amount);
 		virtual void	beRepaired(unsigned int amount);
 		void			highFiveGuys(void);
-
-	private:
-
 };
 
 #endif
