@@ -4,7 +4,7 @@
 # include "ClapTrap.hpp"
 
 class ScavTrap:
-	public ClapTrap
+	virtual public ClapTrap
 {
 	public:
 
